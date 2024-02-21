@@ -38,5 +38,11 @@ The Project focuses on Customers and Company, you have to analyze the sentiments
 
 7. **Business Case Solving:** Address specific business cases, such as identifying the best restaurants in each locality, understanding customer preferences, and improving operational efficiency, based on the insights gained from the analysis.
 
+![image](https://github.com/jtndr26/Zomato/assets/78334379/8e2f0cf4-e16c-41ea-a628-3f20de89e8de)
+![image](https://github.com/jtndr26/Zomato/assets/78334379/6d8fd000-3bdf-4b6c-80b1-2852b5683f4b)
+![image](https://github.com/jtndr26/Zomato/assets/78334379/1271323d-0b0c-4464-88dd-19eb0b315543)
+
+
+
 ### Conclusion:
 The analysis of Zomato restaurant data for each city in India revealed valuable insights into customer sentiments, restaurant clustering, cuisine preferences, and cost-benefit dynamics. By leveraging sentiment analysis and clustering techniques, we were able to identify patterns and trends that can guide both customers and the company in making informed decisions. The visualization of data facilitated easy interpretation and understanding of key findings. Overall, this project offers actionable recommendations for customers seeking the best dining experiences and for the company to enhance its offerings and address areas of improvement in the Indian food industry.
